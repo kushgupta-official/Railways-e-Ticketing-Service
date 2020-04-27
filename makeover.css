@@ -1,0 +1,33 @@
+.main{
+    margin: auto;
+
+    width: 1400px;
+    
+   
+    
+}
+.name{
+    font-family: sans-serif;
+    color: blue;
+    text-align: center;
+    width: 100%;
+    font-size: 30px;
+    background-color: azure;
+   
+    
+}
+h2{
+    color:chartreuse;
+}
+body{
+    background-image:  url(284073.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    -moz-filter:blur(10px);
+}
+.nav{
+    color:blue;
+}
+.table{
+    background-color: aqua;
+}

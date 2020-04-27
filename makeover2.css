@@ -1,0 +1,32 @@
+.main{
+    margin: auto;
+    position:relative;
+    width: 1400px;
+    
+   
+    
+}
+.name{
+    font-family: sans-serif;
+    color: blue;
+    text-align: center;
+    width: 100%;
+    font-size: 30px;
+    background-color: azure;
+   
+    
+}
+h2{
+    color:crimson;
+}
+.nav{
+    color:blue;
+}
+.table{
+    background-color: aqua;
+}
+.image{
+    position: absolute;
+    top:0px;
+    left:10px;
+}

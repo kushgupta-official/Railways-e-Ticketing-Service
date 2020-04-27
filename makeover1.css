@@ -1,0 +1,118 @@
+.main{
+    margin: auto;
+    position:relative;
+    width: 1400px;
+    
+   
+    
+}
+.name{
+    font-family: sans-serif;
+    color: blue;
+    text-align: center;
+    width: 100%;
+    font-size: 30px;
+    background-color: azure;
+   
+    
+}
+h2{
+    color:crimson;
+}
+body{
+    background-image:  url(284073.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+   
+    
+        
+}
+.image{
+    position: absolute;
+    top:0px;
+    left:10px;
+}
+.form{
+    position:absolute;
+    top:200px;
+    left:50px;
+    
+    
+}
+p{
+    font-size: 20px;
+    color:darkblue;
+}
+#submit{
+    width: 100px;
+    height: 40px;
+    background-color:darkblue;
+        color:white;
+    
+}
+#reset{
+     width: 100px;
+    height: 40px;
+    background-color:darkblue;
+        color:white;
+    
+}
+.register{
+     position:absolute;
+    top:500px;
+    left:50px;    
+    background-color: aliceblue;
+    padding:10px;
+    
+}
+.form2{
+    background-color: aliceblue;
+    width:50%;
+    padding: 10px;
+    margin: auto;
+}
+.book{
+    background-color:bisque;
+    padding:10px;
+    margin: auto;
+    width: 40%;
+}
+.nav{
+    color: blue;
+    font-size: 20px;
+}
+.form3{
+    background-color:bisque;
+    width:40%;
+    padding: 10px;
+    margin: auto;
+}
+.form4{
+    background-color:bisque;
+    width:40%;
+    padding: 10px;
+    margin: auto;
+}
+.form5{
+     background-color:bisque;
+    width:40%;
+    padding: 10px;
+    margin: auto;
+}
+.form6{
+    background-color:bisque;
+    width:30%;
+    padding: 10px;
+    margin: auto;
+    
+}
+.form7{
+     background-color:bisque;
+    width:30%;
+    padding: 10px;
+    margin: auto;
+    
+    
+}
+
+
